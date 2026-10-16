@@ -179,7 +179,7 @@ ADD CONSTRAINT tele_cliente UNIQUE (num_tel);
 ```
 
 
-## 3. Insertar datos en las tablas de referencia
+## Insertar datos en las tablas de referencia
 
 Las sentencias `SELECT DISTINCT` recuperan valores únicos del dataset original.
 
@@ -305,7 +305,7 @@ CREATE INDEX descrip_deposito
 ON tipo_deposito(descrip);
 ```
 
-## 6. CREAR TABLA RESERVA
+## CREAR TABLA RESERVA
 
 ### Crear tabla
 
