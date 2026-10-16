@@ -1,4 +1,4 @@
-## Hotel Booking 
+# Hotel Booking 
 ***
 ### INTRODUCCIÓN
   El presente proyecto tiene como objetivo documentar el proceso de normalización de un dataset, cuya contenido se relaciona con las reservas de un hotel, transformando dicha información en una base de datos relacional estructurada.
@@ -6,9 +6,10 @@
 ***
 ### CONTENIDO
 El repositorio contiene:
-- Base de datos normalizada: Estructura relacional para la normalización, con sus respectivas tablas, relaciones e índices.
-- Dataset original (CSV): Contiene los datos de origen utilizados para desarrollar este proyecto.
-- Documento institucional: Documentación del trabajo que incluye los diagramas, las sentencias de creación de tablas, las inserciones de datos, los índices y las explicaciones que corresponden al funcionamiento de la base de datos.
+- **Base de datos normalizada:** Estructura relacional para la normalización, con sus respectivas tablas, relaciones e índices.
+- **Dataset original:** Contiene los datos de origen utilizados para desarrollar este proyecto.
+- **Documento institucional:** Documentación del trabajo que incluye los diagramas, las sentencias de creación de tablas, las inserciones de datos, los índices y las explicaciones que corresponden al funcionamiento de la base de datos.
+- **Diagrama Entidad-relación**: Diagrama que muestra todas las tablas creadas con sus atributos, tipos de dato, multiplicidades y llaves primarias y secundarias.
 ***
 ### REQUISITOS
 Para ejecutar el proyecto, se requiere:
